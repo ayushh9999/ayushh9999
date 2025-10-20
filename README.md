@@ -5,10 +5,6 @@
   <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="500"/>
 </p>
 
-- 🔭 I’m currently working on [srijoni-fs](https://github.com/ayushh9999/srijoni-fs.git)
-
-- 🌱 I’m currently learning **Fastify.js**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ayushh9999?tab=repositories](https://github.com/ayushh9999?tab=repositories)
 
 - 💬 Ask me about **Backend dev, APIs, and scaling apps**

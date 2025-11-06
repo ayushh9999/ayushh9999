@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">A passionate backend developer</h3>
 <!-- Cool coder GIF inspired by N4si -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="500"/>

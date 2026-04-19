@@ -5,7 +5,6 @@
 </p>
 
 - 👨‍💻 All of my projects: [GitHub Repositories](https://github.com/ayushh9999?tab=repositories)
-- 💬 Ask me about **Backend Development, APIs, and Scalable Systems**
 - 📫 Reach me at **ayushmondal139@gmail.com**
 - 📄 LinkedIn: [ayushmondal139](https://www.linkedin.com/in/ayushmondal139/)
 - ⚡ Fun fact: **My first "Hello World" had 3 bugs 😄**

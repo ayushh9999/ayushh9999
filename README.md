@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="500" alt="coder gif" />
-</p>
+</p> -->
 
 - 👨‍💻 All of my projects: [GitHub Repositories](https://github.com/ayushh9999?tab=repositories)
 - 📫 Reach me at **ayushmondal139@gmail.com**
